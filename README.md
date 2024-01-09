@@ -4,4 +4,5 @@ I'm currently working with the lovely folks at [Iterable](https://github.com/ite
 
 ### Current Projects
 
+[Parasocial](https://www.parasocial.so) -- Building out a Podcast Hosting provider
 [Synesthetic Labs](https://synesthetic.io) -- Design services for podcasts! Let me know if I can help!
