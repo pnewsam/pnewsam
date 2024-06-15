@@ -4,6 +4,6 @@ I'm currently working at [Iterable](https://www.iterable.com) as a frontend engi
 
 ### Current Projects
 
-[Parasocial](https://www.parasocial.so) -- Building out a Podcast Hosting provider
+[Overtone](https://www.overtone.fm) -- Building out a Podcast Hosting provider
 
 [Synesthetic Labs](https://synesthetic.io) -- Design services for podcasts! Let me know if I can help!
