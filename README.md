@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a **software engineer** with about 7 years of experience. For the last 3-4 years, I've done mostly frontend work with **React** and **Typescript**. I got my start in full-stack with Ruby on Rails, and I've experimented with a lot of different technologies over the years. On the side I've been working to improve my knowledge of C/C++ and Python.
+I’m a **software engineer** with about 6 years of experience. For the last 3-4 years, I've worked mostly on the frontend with **React** and **Typescript**. I started out doing full-stack with Ruby on Rails though, and I've experimented with a lot of different technologies over the years. On the side I've been working to get more experience with C/C++ and Python.
 
 ## Open to Opportunities
 I’m seeking opportunities to work with **high-trust, high-agency teams** who care deeply about **quality craftsmanship**. I'm open to working in a lot of different domains, but I'm especially motivated by compelling philanthropic missions. I'm a huge believer in [american dynamism](https://a16z.com/american-dynamism/) and the excellence of the [original American source code](https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm).
@@ -74,9 +74,9 @@ I’m seeking opportunities to work with **high-trust, high-agency teams** who c
 </table>
 
 ## Fun Facts
-- Before getting into coding, I worked in **biology and conservation research**. Eventually though I realized that while research and monitoring are important, what really moves the needle is technological progress. So now I am trying to do my small part in that.
-- I've lived in three different places (San Diego, SF Bay Area, and Boston) and I've traveled to 20 countries, mostly in Europe. I'm hoping to expand my horizons a bit. Southeast Asia, Turkey, and Egypt are high on my list.
-- I've worked in a few **coffeeshops**, and I still love a good single-origin light roast. Part of what I love about coffee is that it's an affordable luxury. Having a great coffee feels like a real treat, but it won't break the bank.
+- Before getting into coding, I worked in **biology and conservation research**. I loved working in the field, but I realized that while research and monitoring are important, what really moves the needle is technological progress. Now I am trying to do my small part in that.
+- I've lived in three different places (San Diego, SF Bay Area, and Boston) and I've traveled to 20 countries, mostly in Europe. I'm hoping to expand my horizons in the coming years. Southeast Asia, Turkey, and Egypt are high on my list.
+- I've worked in a few **coffeeshops**, and I still love a good single-origin light roast. What I love about coffee is that it's an affordable luxury. Having great coffee feels like a treat, but it won't break the bank.
 
 ## Let’s Connect
 - **[LinkedIn](https://www.linkedin.com/in/paul-newsam/)**
