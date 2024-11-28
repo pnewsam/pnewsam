@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a **software engineer** with about 6 years of experience. For the last 3-4 years, I've worked mostly on the frontend with **React** and **Typescript**. I started out doing full-stack with Ruby on Rails though, and I've experimented with a lot of different technologies over the years. On the side I've been working to get more experience with C/C++ and Python.
+I’m a **software engineer** with about 6 years of experience. For the last 3-4 years, I've worked mostly on the frontend with **React** and **Typescript**. I started out wiith full-stack Ruby on Rails, and over the years I've experimented with a lot of different technologies. Lately I've been working to get more experience with C/C++ and Python.
 
 ## Open to Opportunities
 I’m seeking opportunities to work with **high-trust, high-agency teams** who care deeply about **quality craftsmanship**. I'm open to working in a lot of different domains, but I'm especially motivated by compelling philanthropic missions. I'm a huge believer in [american dynamism](https://a16z.com/american-dynamism/) and the excellence of the [original American source code](https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm).
