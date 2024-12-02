@@ -3,7 +3,7 @@
 I’m a **software engineer** with about 6 years of experience. For the last 3-4 years, I've worked mostly on the **frontend** with **React** and **Typescript**. I started out wiith full-stack Ruby on Rails, and over the years I've experimented with a lot of different technologies. Lately I've been working to get more experience with C/C++ and Python.
 
 ## Open to Opportunities
-I’m seeking opportunities to work with **high-trust, high-agency teams** who care deeply about **quality craftsmanship**. I'm open to working in a lot of different domains, but I'm especially motivated by compelling philanthropic missions. I'm a huge believer in [American dynamism](https://a16z.com/american-dynamism/) and the excellence of the [original American source code](https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm).
+I’m seeking opportunities to work with **high-trust, high-agency teams** who care deeply about **quality craftsmanship**. I'm open to working in a lot of different domains, but I'm especially motivated by compelling philanthropic missions. I'm a huge believer in [American dynamism](https://a16z.com/american-dynamism/) and the excellence of the original American source code.
 
 <table>
   <thead>
@@ -46,14 +46,14 @@ I’m seeking opportunities to work with **high-trust, high-agency teams** who c
         <img src="https://img.shields.io/badge/-RESTful_APIs-005571?style=flat&logo=api&logoColor=white" alt="RESTful APIs" />
         <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
       </td>
     </tr>
     <tr>
       <td><strong>Experimented With</strong></td>
       <td>
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white" alt="Elixir" />
         <img src="https://img.shields.io/badge/-Phoenix-FF6600?style=flat&logo=elixir&logoColor=white" alt="Phoenix" />
         <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
