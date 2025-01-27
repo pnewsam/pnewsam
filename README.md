@@ -2,6 +2,7 @@
 
 I’m a **software engineer** with about 6 years of experience. For the last 3-4 years, I've worked mostly on the **frontend** with **React** and **Typescript**. I started out wiith full-stack Ruby on Rails, and over the years I've experimented with a lot of different technologies. Lately I've been working to get more experience with C/C++ and Python.
 
+<!-- 
 <table>
   <thead>
     <tr>
@@ -69,6 +70,8 @@ I’m a **software engineer** with about 6 years of experience. For the last 3-4
     </tr>
   </tbody>
 </table>
+
+!-->
 
 ## Fun Facts
 - Before getting into coding, I worked in **biology and conservation research**. I loved working in the field, but I realized that while research and monitoring are important, what really moves the needle for the conservation agenda is technological progress. Now I am trying to do my small part in that.
