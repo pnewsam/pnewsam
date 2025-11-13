@@ -22,6 +22,8 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 
 ### Tools
 
+I'm definitely best in frontend, but I'm always looking to expand my skills to other domains. Lately I've been spending a bit of time with Go and Python, and trying to learn more about devops.
+
 #### Primary Skills
 
 <table style="width:100%">
