@@ -4,21 +4,6 @@ Hey, I'm Paul. I'm currently a Frontend Engineer at <a href="https://www.mindsdb
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly. Feel free to connect with me using one of the links.
 
-<!--
-<table>
-<tbody>
-  <tr>
-    <td>
-      <img style="height: 100%;" src="https://github-readme-stats-omega-ochre-90.vercel.app/api/?username=pnewsam" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-omega-ochre-90.vercel.app/api/top-langs?username=pnewsam&layout=donut" />
-    </td>
-  </tr>
-</tbody>
-</table>
--->
-
 
 ### Tools
 
@@ -95,6 +80,21 @@ I'm definitely best in frontend, but I'm always looking to expand my skills to o
       </td>
     </tr>
   </tbody>
+</table>
+
+### Scorecard
+
+<table>
+<tbody>
+  <tr>
+    <td>
+      <img style="height: 100%;" src="https://github-readme-stats-omega-ochre-90.vercel.app/api/?username=pnewsam" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-omega-ochre-90.vercel.app/api/top-langs?username=pnewsam&layout=donut" />
+    </td>
+  </tr>
+</tbody>
 </table>
 
 <!--
