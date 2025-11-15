@@ -8,7 +8,7 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 
 - **Hard Work**: I believe our work constitutes our contribution to the greater good, and working with diligence and care is the way we show respect to our colleagues and customers. Many things are outside our control, but we can always control our input.
 - **Continuous Improvement**: Nothing is ever finished. We can always improve on existing designs, and we should be vigilant about complacency.
-- **Open-Mindedness**: Being overly open-minded can make it difficult to get anything done. This is the explore/exploit dichotomy. But it is undeniable that every innovation we now credit our prosperity to was once some dreamer's flight of fancy. We should be open-minded not just about new ideas but about new ways of looking at the world.
+- **Open-Mindedness**: Being overly open-minded can make it difficult to get anything done. This is the explore/exploit dichotomy. But every innovation we now credit our prosperity to was once some dreamer's flight of fancy. We should be open-minded not just about new ideas but about new ways of looking at the world.
 
 ### Skills
 
