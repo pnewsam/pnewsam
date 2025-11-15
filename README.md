@@ -5,11 +5,11 @@ Hey, I'm Paul. I'm a frontend engineer with 7 years of experience. Currently I'm
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly. Feel free to connect with me using one of the links.
 
 
-### Tools
+### Skills
 
 #### Primary Skills
 
-My strength is in frontend, where I have 7 years of professional experience. I believe strong UX starts at the level of code. Sound architectural decisions and careful attention to code hygiene bubble up into the user interface, where consistency, symmetry, and order communicate application health.
+> My strength is in frontend, where I have 7 years of professional experience. I believe strong UX starts at the level of code. Sound architectural decisions and careful attention to code hygiene bubble up into the user interface, where consistency, symmetry, and order communicate application health.
 
 <table style="width:100%">
   <tbody>
@@ -48,7 +48,7 @@ My strength is in frontend, where I have 7 years of professional experience. I b
 
 #### Secondary Skills
 
-While my core strengths are in frontend I am always looking to deepen my experience in other domains. I have worked professionally in Ruby/Ruby on Rails and Python, and have explored C/C++, Go, Elixir, and other languages through my coursework and side projects. Currently I'm learning more about DevOps.
+> While my core strengths are in frontend I am always looking to deepen my experience in other domains. I have worked professionally in Ruby/Ruby on Rails and Python, and have explored C/C++, Go, Elixir, and other languages through my coursework and side projects. Currently I'm learning more about DevOps.
 
 <table>
   <tbody>
@@ -111,4 +111,4 @@ While my core strengths are in frontend I am always looking to deepen my experie
 
 ### Fun Facts
 
-Before getting into tech, I worked on-and-off as a field biologist for about 6 years. (You can check out some of the photos I took on my travels [here](https://photos.paultnewsam.com/).) While I reman enthusiastic about conservationist causes, I've come to believe the best way to advance that cause, like many other humanist or progressivist causes, is to advance technological progress. I also have the long-term aspiration of writing fiction -- some of my favorite authors are Tolstoy, Hemingway, and Orwell.
+> Before getting into tech, I worked on-and-off as a field biologist for about 6 years. You can check out some of the photos I took on my travels [here](https://photos.paultnewsam.com/). While I remain enthusiastic about conservationist causes, I've come to believe the best way to advance that cause, like many other humanist or progressivist causes, is to advance technological progress. I also have the long-term aspiration of writing fiction. Some of my favorite authors are Tolstoy, Hemingway, and Ibsen.
