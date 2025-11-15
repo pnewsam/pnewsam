@@ -4,6 +4,11 @@ Hey, I'm Paul. I'm a frontend engineer with 7 years of experience. Currently I'm
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly. Feel free to connect with me using one of the links.
 
+### Values
+
+- **Hard Work**: I believe our work constitutes our contribution to the greater good, and working with diligence and care is the way we show respect to our colleagues and customers. Many things are outside our control, but we can always control our input.
+- **Continuous Improvement**: Nothing is ever finished. We can always improve on existing designs, and we should be vigilant about complacency.
+- **Open-Mindedness**: Being overly open-minded can make it difficult to get anything done. This is the explore/exploit dichotomy. But it is undeniable that every innovation we now credit our prosperity to was once some dreamer's flight of fancy. We should be open-minded not just about new ideas but about new ways of looking at the world.
 
 ### Skills
 
@@ -14,7 +19,7 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 <table style="width:100%">
   <tbody>
     <tr>
-      <td>Languages</td>
+      <td><b>Languages</b></td>
       <td>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="24px" />
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" height="24px" />
@@ -23,7 +28,7 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
       </td>
     </tr>
     <tr>
-      <td>Frameworks</td>
+      <td><b>Frameworks</b></td>
       <td>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="24px" />
         <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS" height="24px" />
@@ -33,7 +38,7 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
       </td>
     </tr>
     <tr>
-      <td>Libraries</td>
+      <td><b>Libraries</b></td>
       <td>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="24px" />
         <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="24px" />
@@ -48,7 +53,7 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 
 #### Secondary Skills
 
-> While my core strengths are in frontend I am always looking to deepen my experience in other domains. I have worked professionally in Ruby/Ruby on Rails and Python, and have explored C/C++, Go, Elixir, and other languages through my coursework and side projects. Currently I'm learning more about DevOps.
+> I am always looking to deepen my experience in other domains. I have worked professionally in Ruby/Ruby on Rails and Python, and have explored C/C++, Go, Elixir, and other languages through my coursework and side projects. Lately I've been learning more about Python, Data Analysis, and DevOps.
 
 <table>
   <tbody>
@@ -112,3 +117,4 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 ### Fun Facts
 
 > Before getting into tech, I worked on-and-off as a field biologist for about 6 years. You can check out some of the photos I took on my travels [here](https://photos.paultnewsam.com/). While I remain enthusiastic about conservationist causes, I've come to believe the best way to advance that cause, like many other humanist or progressivist causes, is to advance technological progress. I also have the long-term aspiration of writing fiction. Some of my favorite authors are Tolstoy, Hemingway, and Ibsen.
+> These days, I'm an avid **podcast listener**, **coffee fan**, and **occasional runner**.
