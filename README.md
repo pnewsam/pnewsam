@@ -1,15 +1,15 @@
 ## About Me
 
-Hey, I'm Paul. I'm currently a Frontend Engineer at <a href="https://www.mindsdb.com">MindsDB</a>. We're building a platform that makes it easy for enterprises to connect, unify, and query their data using AI. Mostly I work with React, Typescript, and TailwindCSS.
+Hey, I'm Paul. I'm a frontend engineer with 7 years of experience. Currently I'm a **Frontend Engineer** at <a href="https://www.mindsdb.com">**MindsDB**</a>, where we're building a platform that makes it easy for enterprises to unify and query their data using AI. Think ETL, but without all the ETL. Mostly I work with React, Typescript, and TailwindCSS.
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly. Feel free to connect with me using one of the links.
 
 
 ### Tools
 
-Frontend is primary interest, but I'm always looking to expand my skills to other domains. Lately I've been spending a bit of time with Go and Python, and learning more about devops.
-
 #### Primary Skills
+
+My strength is in frontend, where I have 7 years of professional experience. I believe strong UX starts at the level of code. Sound architectural decisions and careful attention to code hygiene bubble up into the user interface, where consistency, symmetry, and order communicate application health.
 
 <table style="width:100%">
   <tbody>
@@ -47,6 +47,8 @@ Frontend is primary interest, but I'm always looking to expand my skills to othe
 </table>
 
 #### Secondary Skills
+
+While my core strengths are in frontend I am always looking to deepen my experience in other domains. I have worked professionally in Ruby/Ruby on Rails and Python, and have explored C/C++, Go, Elixir, and other languages through my coursework and side projects. Currently I'm learning more about DevOps.
 
 <table>
   <tbody>
@@ -106,3 +108,7 @@ Frontend is primary interest, but I'm always looking to expand my skills to othe
 <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" height="24px" />
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="24px" />
 -->
+
+### Fun Facts
+
+Before getting into tech, I worked on-and-off as a field biologist for about 6 years. (You can check out some of the photos I took on my travels [here](https://photos.paultnewsam.com/).) While I reman enthusiastic about conservationist causes, I've come to believe the best way to advance that cause, like many other humanist or progressivist causes, is to advance technological progress. I also have the long-term aspiration of writing fiction -- some of my favorite authors are Tolstoy, Hemingway, and Orwell.
