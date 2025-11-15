@@ -117,4 +117,4 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 ### Fun Facts
 
 > Before getting into tech, I worked on-and-off as a field biologist for about 6 years. You can check out some of the photos I took on my travels [here](https://photos.paultnewsam.com/). While I remain enthusiastic about conservationist causes, I've come to believe the best way to advance that cause, like many other humanist or progressivist causes, is to advance technological progress. I also have the long-term aspiration of writing fiction. Some of my favorite authors are Tolstoy, Hemingway, and Ibsen.
-> These days, I'm an avid **podcast listener**, **coffee fan**, and **occasional runner**.
+> These days, I'm an avid **podcast listener**, **coffee fan**, and **occasional runner**. I sometimes share websites I've built [here](https://www.uxadvantage.com/).
