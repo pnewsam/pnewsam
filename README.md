@@ -4,12 +4,6 @@ Hey, I'm Paul. I'm a frontend engineer with 7 years of experience. Currently I'm
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly. Feel free to connect with me using one of the links.
 
-### Values
-
-- **Hard Work**: I believe our work is our contribution to the greater good, and working with diligence and care is the way we show respect to our colleagues and customers. Many things are outside our control, but we can always control our input.
-- **Continuous Improvement**: Nothing is ever finished. We can always improve on existing designs, and we should be vigilant about complacency.
-- **Open-Mindedness**: Being overly open-minded can make it difficult to get anything done. This is the explore/exploit dichotomy. But every innovation we now credit our prosperity to was once some dreamer's flight of fancy. We should be open-minded not just about new ideas but about new ways of looking at the world.
-
 ### Skills
 
 #### Primary Skills
@@ -113,6 +107,12 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" height="24px" />
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="24px" />
 -->
+
+### Values
+
+- **Hard Work**: I believe our work is our contribution to the greater good, and working with diligence and care is the way we show respect to our colleagues and customers. Many things are outside our control, but we can always control our input.
+- **Continuous Improvement**: Nothing is ever finished. We can always improve on existing designs, and we should be vigilant about complacency.
+- **Open-Mindedness**: Being overly open-minded can make it difficult to get anything done. This is the explore/exploit dichotomy. But every innovation we now credit our prosperity to was once some dreamer's flight of fancy. We should be open-minded not just about new ideas but about new ways of looking at the world.
 
 ### Fun Facts
 
