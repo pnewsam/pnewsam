@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I'm Paul. I'm a frontend engineer with 7 years of experience. Currently I'm a **Frontend Engineer** at <a href="https://www.mindsdb.com">**MindsDB**</a>, where we're building a platform that makes it easy for enterprises to unify and query their data using AI. Think ETL, but without all the ETL. Mostly I work with React, Typescript, and TailwindCSS. Before MindsDB, I worked as an engineer at [Iterable](https://iterable.com/) and at [Accenture](http://accenture.com/).
+Hey, I'm Paul. Currently I'm a **Frontend Engineer** at <a href="https://www.mindsdb.com">**MindsDB**</a>, where we're building a platform that makes it easy for enterprises to unify and query their data using AI. Think ETL, but without all the ETL. Mostly I work with React, Typescript, and TailwindCSS. Before MindsDB, I worked as an engineer at [Iterable](https://iterable.com/) and at [Accenture](http://accenture.com/).
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly. Feel free to connect with me using one of the links.
 
