@@ -4,6 +4,8 @@ Hey, I'm Paul. Currently I'm a **Frontend Engineer** at <a href="https://www.min
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly.
 
+<!--
+
 ### Skills
 
 #### Primary Skills
@@ -99,14 +101,11 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
   </tr>
 </tbody>
 </table>
--->
 
-<!--
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/UI" height="24px" />
 <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" height="24px" />
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="24px" />
--->
 
 ### Values
 
@@ -118,3 +117,5 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 
 > Before getting into tech, I worked on-and-off as a field biologist for about 6 years. You can check out some of the photos I took on my travels [here](https://photos.paultnewsam.com/). While I remain enthusiastic about conservationist causes, I've come to believe the best way to advance that cause, like many other humanist or progressivist causes, is to advance technological progress. I also have the long-term aspiration of writing fiction. Some of my favorite authors are Tolstoy, Hemingway, and Ibsen.
 > These days, I'm an avid **podcast listener**, **coffee fan**, and **occasional runner**. I sometimes share websites I've built [here](https://www.uxadvantage.com/).
+
+-->
