@@ -107,6 +107,8 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
 
 -->
 
+<!--
+
 ### Values
 
 - **Hard Work**: I believe our work is our contribution to the greater good, and working with diligence and care is the way we show respect to our colleagues and customers. Many things are outside our control, but we can always control our input.
