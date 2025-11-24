@@ -4,8 +4,6 @@ Hey, I'm Paul. Currently I'm a **Frontend Engineer** at <a href="https://www.min
 
 Outside of our own product,  I'm pretty excited about <a href="https://tanstack.com/">Tanstack</a>, the <a href="https://www.cloudflare.com/developer-platform/products/">Cloudflare developer platform</a>, <a href="https://www.cursor.com/">Cursor</a>, and AI more broadly.
 
-<!--
-
 ### Skills
 
 #### Primary Skills
@@ -84,8 +82,6 @@ Outside of our own product,  I'm pretty excited about <a href="https://tanstack.
     </tr>
   </tbody>
 </table>
-
--->
 
 <!--
 
